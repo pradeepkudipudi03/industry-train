@@ -1,0 +1,151 @@
+.a1{
+    height: 500;
+    width: 670;
+    position: relative;
+    left: 300px;
+}
+.a{
+    height: 230px;
+    width: 200px;
+    background-color: white;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.b{
+    height: 230px;
+    width: 200px;
+    background-color: white;
+    position: relative;
+    left: 230px;
+    bottom: 210px;
+}
+.c{
+    height: 230px;
+    width: 200px;
+    background-color: white;
+    position: relative;
+    left: 440px;
+    bottom: 440px;    
+}
+.d{
+    height: 230px;
+    width: 200px;
+    background-color: white;
+    position: relative;
+    left: 20px;
+    bottom: 430px;
+}
+.e{
+    height: 230px;
+    width: 200px;
+    background-color: white;
+    position: relative;
+    left: 230px;
+    bottom: 660px;
+}
+.f{
+    height: 230px;
+    width: 200px;
+    background-color: white;
+    position: relative;
+    left: 440px;
+    bottom: 890px;    
+}
+#a1{
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans';
+    position: relative;
+    left: 4px;
+}
+#a2{
+    font-size: 14px;
+    position: relative;
+    left: 2px;
+    bottom: 5px;
+}
+#a3{
+    color: rgb(206, 200, 200);
+    background-color: rgba(148,101,233,255);
+    display: inline-block;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    position: relative;
+    left: 2px;
+    font-size: smaller;
+    bottom: 5px;
+}
+.b{
+    background-color: rgba(243,241,255,255);
+}
+.c{
+    background-color: rgba(254,249,230,255);
+}
+.d{
+    background-color: rgba(253,243,251,255);
+}
+.e{
+    background-color: rgba(243,241,255,255);
+}
+.f{
+    background-color: rgba(253,243,251,255);
+}
+#i1{
+    position: relative;
+    top: 4px;
+    right: 90px;
+}
+#p1{
+   font-size: 14px;
+   position: relative;
+   top: 2px;
+   left: 3px;
+   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans';
+}
+#i2{
+    position: relative;
+    left: 4px;
+    top: 4px;
+}
+#p2{
+    position: relative;
+    left: 22px;
+    bottom: 23px;
+    font-size: smaller;
+}
+#p3{
+    position: relative;
+    left: 22px;
+    bottom: 55px;
+    font-size: smaller;
+}
+#i3{
+    position: relative;
+    left: 4px;
+    bottom: 27px;
+}
+#p4{
+    position: relative;
+    left: 22px;
+    bottom: 85px;
+    font-size: smaller;
+}
+#i4{
+    position: relative;
+    left: 4px;
+    bottom: 57px;
+}
+#b1{
+    background-color: rgba(148,101,233,255);
+    color: white;
+    font-size: smaller;
+    display: inline-block;
+    position: relative;
+    top: 145px;
+    left: 6px;
+    padding-top: 4px;
+    padding-left: 7px;
+    padding-right: 10px;
+    padding-bottom: 4px;
+}

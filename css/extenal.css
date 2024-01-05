@@ -1,0 +1,54 @@
+.c{
+    color:yellow;
+    background-color: green;
+    font-size: 75;
+    display:inline;
+    padding: 0;
+    margin: 0;
+}
+#m{
+    color: black;
+    text-align: left;
+    font-size: 40;
+    font-family: impact;
+}
+tag{
+    color:yellow;
+    background-color: green;
+    font-size: 75;
+    display:inline;
+}
+hi{
+    color: black;
+    text-align: left;
+    font-size: 40;
+    font-family: impact;
+}
+*{
+    background-color: skyblue;
+    font-size: 10;
+}
+input[type="text"]{
+   color: blue; 
+   font-size: 40;
+}
+input[type="email"]{
+    color: blue; 
+    font-size: 40;
+ }
+ a[href=""]{
+   font-size: 40;
+}
+
+ input:visited{
+    color: red;
+ }
+ a:visited{
+    font-size: 40;
+ }
+ a:hover{
+    font-size: 60;
+ }
+ a:active{
+    color: green;
+ }
